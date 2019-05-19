@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.America---Clothing-Wear-1-hex { color: #A62648; }
+.America---Clothing-Wear-2-hex { color: #48168C; }
+.America---Clothing-Wear-3-hex { color: #3314A6; }
+.America---Clothing-Wear-4-hex { color: #1B15BF; }
+.America---Clothing-Wear-5-hex { color: #D92B04; }
+
+/* Color Theme Swatches in RGBA */
+.America---Clothing-Wear-1-rgba { color: rgba(165, 38, 72, 1); }
+.America---Clothing-Wear-2-rgba { color: rgba(71, 22, 140, 1); }
+.America---Clothing-Wear-3-rgba { color: rgba(51, 19, 165, 1); }
+.America---Clothing-Wear-4-rgba { color: rgba(26, 21, 191, 1); }
+.America---Clothing-Wear-5-rgba { color: rgba(216, 43, 4, 1); }
+
+/* Color Theme Swatches in HSLA */
+.America---Clothing-Wear-1-hsla { color: hsla(343, 62, 39, 1); }
+.America---Clothing-Wear-2-hsla { color: hsla(264, 72, 31, 1); }
+.America---Clothing-Wear-3-hsla { color: hsla(253, 78, 36, 1); }
+.America---Clothing-Wear-4-hsla { color: hsla(241, 80, 41, 1); }
+.America---Clothing-Wear-5-hsla { color: hsla(11, 96, 43, 1); }
